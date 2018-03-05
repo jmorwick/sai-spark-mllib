@@ -1,2 +1,2 @@
 # sai-spark-mllib
-SAI hooks for Spark's MLlib
+Adapters for Spark MLlib components in SAI
